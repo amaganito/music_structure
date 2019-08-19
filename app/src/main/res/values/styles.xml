@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#2A52BE</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FFC72D</item>
+
+    </style>
+
+
+    <style name="MusicGenre">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">56sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
